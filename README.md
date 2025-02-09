@@ -41,7 +41,7 @@
 
 - 📫 Reach out by sending an [email](mailto:adriienlynch@gmail.com)
 
-- 🌟 Fun fact: I have a knack for languages and can speak **Spanish** and **French** fluently (+ conversational **German**, see [Emil-Spiel](https://github.com/aadriien/Emil-Spiel))
+- 🌟 Fun fact: I have a knack for languages, speaking **Spanish** and **French** fluently (+ conversational **German**, see [Emil-Spiel](https://github.com/aadriien/Emil-Spiel))
 
 
 <hr>
