@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Adrien 👋</h1>
-<h3 align="center">a data-driven software engineer who's passionate about building products that delight users</h3>
+<h3 align="center">a data-driven software engineer who's passionate about building</h3>
+<p align="center">committed to generating impact, delighting users, leaning into cool ideas, and learning along the way :-)</p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +22,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadriien" alt="aadriien" /></a> </p>
 -->
 
-<br>
+
 
 #### Projects & Tech
 - 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) (private repo, will soon make public)
@@ -30,15 +31,15 @@
 
 - 🌱 Right now, I'm learning **React** and experimenting with **LLMs (Llama, Mistral)**
   
-- 👨‍💻 Check out some of my past projects: [https://github.com/aadriien](https://github.com/aadriien)
+- 👨‍💻 Check out some of my past projects: [github.com/aadriien](https://github.com/aadriien)
 
-- ❤️ Check out one of my favorite tech communities: [https://hackny.org](https://hackny.org)
+- ❤️ Check out one of my favorite tech communities: [hackny.org](https://hackny.org)
 
 
 #### Digging Deeper
 - 💬 Ask me about my approach to **user-centric engineering**
 
-- 📫 Reach me at [adriienlynch@gmail.com](mailto:adriienlynch@gmail.com)
+- 📫 Reach out by sending an [email](mailto:adriienlynch@gmail.com)
 
 - 🌟 Fun fact: I have a knack for languages and can speak **Spanish** and **French** fluently (+ conversational **German**, see [Emil-Spiel](https://github.com/aadriien/Emil-Spiel))
 
