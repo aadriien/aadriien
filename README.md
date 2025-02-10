@@ -1,6 +1,11 @@
+![Header](./github-header-aadriien.png)
+
+<!--
 <h1 align="center">Hi! I'm Adrien 👋</h1>
 <h3 align="center">a data-driven software engineer who's passionate about building</h3>
-<p align="center">committed to generating impact, delighting users, leaning into cool ideas, and learning along the way :-)</p>
+-->
+
+<p align="center">Committed to generating <strong>impact</strong>, delighting <strong>users</strong>, leaning into <strong>cool ideas</strong>, and <strong>learning</strong> along the way :-)</p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
