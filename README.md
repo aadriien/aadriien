@@ -36,7 +36,7 @@
 
 - 🌱 Right now, I'm learning **React** and experimenting with **LLMs (Llama, Mistral)**
   
-- 👨‍💻 Check out some of my past projects: [github.com/aadriien](https://github.com/aadriien)
+- 👨‍💻 Check out some of my past projects: [github.com/aadriien](https://github.com/aadriien?tab=repositories)
 
 - ❤️ Check out one of my favorite tech communities: [hackny.org](https://hackny.org)
 
