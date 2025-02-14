@@ -30,7 +30,7 @@
 
 
 #### Projects & Tech
-- 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) (private repo, will soon make public)
+- 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) 
   
 - ✏️ I’m also developing a personal site
 
