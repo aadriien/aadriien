@@ -89,9 +89,16 @@
 
 <img src="https://img.shields.io/badge/Repositories Count >>-public: 9 || private: 28-9FE2BF" alt="Repo Count">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadriien&show_icons=true&locale=en&layout=compact" alt="aadriien" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadriien&theme=nord_bright" alt="aadriien" /></p>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadriien&theme=transparent" alt="aadriien" /></p>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadriien&theme=transparent" alt="aadriien" /></p>
+
 
 <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadriien&show_icons=true&locale=en&layout=compact" alt="aadriien" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadriien&show_icons=true&locale=en" alt="aadriien" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadriien&" alt="aadriien" /></p>
 -->
