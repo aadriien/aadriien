@@ -32,7 +32,7 @@
 #### Projects & Tech
 - 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) 
   
-- ✏️ I’m also developing a [personal site](https://github.com/aadriien/personal-site)
+- ✏️ I’ve also just finished developing a [personal site](https://aadriien.github.io)!
 
 - 🌱 Right now, I'm learning **React** and experimenting with **LLMs (Llama, Mistral)**
   
