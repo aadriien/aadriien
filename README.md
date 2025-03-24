@@ -34,7 +34,7 @@
   
 - ✏️ I’ve also just finished developing a [personal site](https://aadriien.github.io)!
 
-- 🌱 Right now, I'm learning **React** and experimenting with **LLMs (Llama, Mistral)**
+- 🌱 Right now, I'm learning **React**, experimenting with **LLMs**, and getting back into **electronics**
   
 - 👨‍💻 Check out some of my past projects: [github.com/aadriien](https://github.com/aadriien?tab=repositories)
 
