@@ -30,7 +30,7 @@
 
 
 #### Projects & Tech
-- 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) 
+- 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) and [whale-shark-site](https://github.com/aadriien/whale-shark-site) 
   
 - ✏️ I’ve also just finished developing a [personal site](https://aadriien.github.io)!
 
