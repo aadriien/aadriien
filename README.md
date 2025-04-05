@@ -30,11 +30,13 @@
 
 
 #### Projects & Tech
-- 🔭 I’m currently working on [price-tracker](https://github.com/aadriien/price-tracker) and [whale-shark-site](https://github.com/aadriien/whale-shark-site) 
+- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [price-tracker](https://github.com/aadriien/price-tracker)
   
-- ✏️ I’ve also just finished developing a [personal site](https://aadriien.github.io)!
+- 🔭 I recently finished building a [personal website](https://aadriien.github.io) (with webring integration!)
 
 - 🌱 Right now, I'm learning **React**, experimenting with **LLMs**, and getting back into **electronics**
+
+- 🌀 You'll also find me toying with tools like **Three**.js, **P5**.js, and **D3**.js 
   
 - 👨‍💻 Check out some of my past projects: [github.com/aadriien](https://github.com/aadriien?tab=repositories)
 
