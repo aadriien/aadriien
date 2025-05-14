@@ -34,7 +34,7 @@
   
 - 🔭 I recently finished building a [personal website](https://aadriien.github.io) (with webring integration!)
 
-- 🌱 Right now, I'm learning **React**, experimenting with **LLMs**, and getting back into **electronics**
+- 🌱 Right now, I'm learning **React**, experimenting with **generative AI**, and diving into **computer vision**
 
 - 🌀 You'll also find me toying with tools like **Three**.js, **P5**.js, and **D3**.js 
   
@@ -89,7 +89,7 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/Repositories Count >>-public: 14 || private: 28-9FE2BF" alt="Repo Count">
+<img src="https://img.shields.io/badge/Repositories Count >>-public: 15 || private: 28-9FE2BF" alt="Repo Count">
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadriien&theme=nord_bright" alt="aadriien" /></p>
 
