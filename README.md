@@ -38,7 +38,7 @@
   - a neat little ASCII [art tool](https://github.com/aadriien/generative-ascii-art) that leverages LLMs for some generative AI magic
   - a useful [price tracker](https://github.com/aadriien/price-tracker) that connects to Gmail (with OAuth 2.0) for purchase extraction
 
-- 🌱 Right now, I'm learning **React**, experimenting with **generative AI**, and diving into **computer vision**
+- 🌱 Right now, I'm learning **React** and **Svelte**, experimenting with **generative AI**, and diving into **computer vision**
 
 - 🌀 You'll also find me toying with tools like **Three**.js, **P5**.js, and **D3**.js 
   
