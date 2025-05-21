@@ -30,9 +30,13 @@
 
 
 #### Projects & Tech
-- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [price-tracker](https://github.com/aadriien/price-tracker)
+- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [monster-scare-school](https://github.com/aadriien/monster-scare-school)
   
-- 🔭 I recently finished building a [personal website](https://aadriien.github.io) (with webring integration!)
+- 🔭 Some recently-finished projects include...
+  - my own [personal website](https://aadriien.github.io) (with webring integration!)
+  - a fun [browser game](https://github.com/aadriien/pose-pulse) that incorporates computer vision and augmented reality
+  - a neat little ASCII [art tool](https://github.com/aadriien/generative-ascii-art) that leverages LLMs for some generative AI magic
+  - a useful [price tracker](https://github.com/aadriien/price-tracker) that connects to Gmail (with OAuth 2.0) for purchase extraction
 
 - 🌱 Right now, I'm learning **React**, experimenting with **generative AI**, and diving into **computer vision**
 
@@ -89,7 +93,7 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/Repositories Count >>-public: 15 || private: 28-9FE2BF" alt="Repo Count">
+<img src="https://img.shields.io/badge/Repositories Count >>-public: 16 || private: 28-9FE2BF" alt="Repo Count">
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadriien&theme=nord_bright" alt="aadriien" /></p>
 
