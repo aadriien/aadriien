@@ -30,7 +30,7 @@
 
 
 #### Projects & Tech
-- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [monster-scare-school](https://github.com/aadriien/monster-scare-school)
+- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [choose-your-llm-face-adventure](https://github.com/aadriien/choose-your-llm-face-adventure)
   
 - 🔭 Some recently-finished projects include...
   - my own [personal website](https://aadriien.github.io) (with webring integration!)
