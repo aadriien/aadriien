@@ -30,11 +30,12 @@
 
 
 #### Projects & Tech
-- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [choose-your-llm-face-adventure](https://github.com/aadriien/choose-your-llm-face-adventure)
+- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [ESP32-lightsaber](https://github.com/aadriien/ESP32-lightsaber) 
   
 - 🔭 Some recently-finished projects include...
   - my own [personal website](https://aadriien.github.io) (with webring integration!)
-  - a fun [browser game](https://github.com/aadriien/pose-pulse) that incorporates computer vision and augmented reality
+  - a delightful [choose your adventure](https://github.com/aadriien/choose-your-llm-face-adventure) quest that blends generative AI (LLMs) and computer vision
+  - a lively [browser game](https://github.com/aadriien/pose-pulse) that incorporates computer vision and augmented reality
   - a neat little ASCII [art tool](https://github.com/aadriien/generative-ascii-art) that leverages LLMs for some generative AI magic
   - a useful [price tracker](https://github.com/aadriien/price-tracker) that connects to Gmail (with OAuth 2.0) for purchase extraction
 
@@ -93,7 +94,7 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/Repositories Count >>-public: 18 || private: 29-9FE2BF" alt="Repo Count">
+<img src="https://img.shields.io/badge/Repositories Count >>-public: 19 || private: 29-9FE2BF" alt="Repo Count">
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadriien&theme=nord_bright" alt="aadriien" /></p>
 
