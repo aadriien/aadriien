@@ -30,7 +30,9 @@
 
 
 #### Projects & Tech
-- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [ESP32-lightsaber](https://github.com/aadriien/ESP32-lightsaber) 
+- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site) and [ESP32-lightsaber](https://github.com/aadriien/ESP32-lightsaber), while pairing on [penguin-puzzle](https://github.com/eayhkim/penguin-puzzle)
+
+- 🎮 I'm also designing a series of [open source utilities](https://github.com/aadriien/pico8-devbuddy) to improve the PICO-8 dev experience 
   
 - 🔭 Some recently-finished projects include...
   - my own [personal website](https://aadriien.github.io) (with webring integration!)
@@ -41,11 +43,16 @@
 
 - 🌱 Right now, I'm learning **React** and **Svelte**, experimenting with **generative AI**, and diving into **computer vision**
 
-- 🌀 You'll also find me toying with tools like **Three**.js, **P5**.js, and **D3**.js 
+- 🌀 You'll also find me toying with tools like **Three**.js, **P5**.js, **D3**.js, **ElevenLabs**, and even **KiCad** 
+
+
+#### Reflective Recap
   
 - 👨‍💻 Check out some of my past projects: [github.com/aadriien](https://github.com/aadriien?tab=repositories)
 
 - ❤️ Check out some of my favorite tech communities: [hackNY](https://hackny.org) and [the Recurse Center](https://www.recurse.com)
+
+- 📽️ See the [presentations and talks](https://aadriien.github.io) I've given on my technial work
 
 
 #### Digging Deeper
@@ -94,7 +101,7 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/Repositories Count >>-public: 20 || private: 29-9FE2BF" alt="Repo Count">
+<img src="https://img.shields.io/badge/Repositories Count >>-public: 21 || private: 30-9FE2BF" alt="Repo Count">
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadriien&theme=nord_bright" alt="aadriien" /></p>
 
