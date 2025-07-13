@@ -52,7 +52,7 @@
 
 - ❤️ Check out some of my favorite tech communities: [hackNY](https://hackny.org) and [the Recurse Center](https://www.recurse.com)
 
-- 📽️ See the [presentations and talks](https://aadriien.github.io) I've given on my technial work
+- 📽️ See the [presentations and talks](https://aadriien.github.io) I've given on my technical work
 
 
 #### Digging Deeper
