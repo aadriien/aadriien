@@ -35,7 +35,7 @@
 - 🎮 I'm also designing a series of [open source utilities](https://github.com/aadriien/pico8-devbuddy) to improve the PICO-8 dev experience 
   
 - 🔭 Some recently-finished projects include...
-  - my own [personal website](https://aadriien.github.io) with webring integration!
+  - my own [personal website](https://helloadrien.dev) with webring integration!
   - a retro-style [galactic game](https://github.com/aadriien/GMTK-starship-loopers) that invites players to loop through space ([GMTK 2025](https://microscientist.itch.io/starship-loopers) submission) 
   - a delightful [choose your adventure](https://github.com/aadriien/choose-your-llm-face-adventure) quest that blends generative AI (LLMs) and computer vision
   - a lively [browser game](https://github.com/aadriien/pose-pulse) that incorporates computer vision and augmented reality
