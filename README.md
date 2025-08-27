@@ -30,7 +30,7 @@
 
 
 #### Projects & Tech
-- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site), while exploring NLP for [pronoun-proofer](https://github.com/aadriien/pronoun-proofer) Zulip bot
+- ✏️ I’m currently working on [whale-shark-site](https://github.com/aadriien/whale-shark-site), while exploring NLP (+ fine-tuning) for [pronoun-proofer](https://github.com/aadriien/pronoun-proofer) Zulip bot
 
 - 🧮 Where time permits, I'm also...
   - prototyping PCBs for my [ESP32-lightsaber](https://github.com/aadriien/ESP32-lightsaber) electronics project
