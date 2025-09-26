@@ -106,7 +106,7 @@
 <br>
 
 
-<img src="https://img.shields.io/badge/Repositories Count >>-public: 23 || private: 30-9FE2BF" alt="Repo Count">
+<img src="https://img.shields.io/badge/Repositories Count >>-public: 24 || private: 30-9FE2BF" alt="Repo Count">
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadriien&theme=nord_bright" alt="aadriien" /></p>
 
